@@ -1,0 +1,12 @@
+kiranboi 6969 Kiran 14
+A 8000
+M 4500
+Total 5666
+A 8000
+S 2400
+M 8000
+D 5200
+Total 5900
+M 6600
+D 6600
+Total 6600

@@ -1,0 +1,7 @@
+sri 1234 Sriram 5
+A 4500
+S 5900
+Total 5200
+S 8000
+D 1000
+Total 4500

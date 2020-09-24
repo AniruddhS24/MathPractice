@@ -1,0 +1,7 @@
+c a Clor 4
+D 1000
+Total 1000
+A 8000
+S 8000
+M 8000
+Total 7999
